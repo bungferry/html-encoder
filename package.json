@@ -2,7 +2,7 @@
   "name": "react-fb-post-creator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oyeovi.github.io/react-fb-post-creator",
+  "homepage": "https://ferryayunda.github.io/fbpost-creator/",
   "dependencies": {
     "antd": "^3.9.2",
     "react": "^16.5.1",
